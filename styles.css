@@ -1,0 +1,12 @@
+.body-text {
+  background-color: rgb(183, 182, 182);
+  background-image: url("/landing/img-banner.png");
+  background-size: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.button  {
+  color: rgb(0, 0, 0);
+}
